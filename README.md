@@ -4,3 +4,5 @@ Learning DSA
 -Variable and data types
 <br>
 -conditional statements and loops
+<br>
+-Pattern Questions
